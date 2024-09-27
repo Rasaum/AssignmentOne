@@ -9,7 +9,7 @@ public class Main {
 
     QueueOperations queueOps = new QueueOperations();
 
-    String filePath = "C:/Users/Raissa Umwali/IdeaProjects/AssignmentOne/src/log-data (2).csv";
+    String filePath = "src/log-data (2).csv";
 
     queueOps.readFile(filePath);
 
