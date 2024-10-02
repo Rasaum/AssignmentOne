@@ -1,9 +1,15 @@
 "C:\Users\Raissa Umwali\.jdks\openjdk-22.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.2.1\lib\idea_rt.jar=60503:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.2.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\Raissa Umwali\IdeaProjects\AssignmentOne\out\production\AssignmentOne;C:\Users\Raissa Umwali\IdeaProjects\AssignmentOne\lib\stdlib.jar" Main
+
 Log Level Analysis:
+
 INFO: 3347
+
 WARN: 3314
+
 ERROR: 3339
+
 Memory Warnings: 696
+
 Recent Errors:
 [2024-08-23 14:35:20] ERROR Timeout occurred
 [2024-08-23 14:35:22] ERROR Database connection failed
